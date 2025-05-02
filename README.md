@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="[banner_github.png](https://www.facebook.com/photo/?fbid=2849745118664145&set=a.1584063601898976)" alt="GitHub Banner" width="100%" />
+<img src="[https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/476149772_3490826077889376_6920923188909851805_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=oZrfO9skK6MQ7kNvwFynGf0&_nc_oc=Admh9nQCuQPVxJSyivQj5j4q4uCgUaP_8bMLzI7iSGPVIL_32wfULiv1tDcGNOE2ls0&_nc_zt=23&_nc_ht=scontent.fdac5-2.fna&_nc_gid=-3u_wMxJeAkkbiENw6B--Q&oh=00_AfHWMeWuxBQsep5lomvhe10ueD9lW2PiBuAszQhgB5_6Ag&oe=681AB281]" alt="GitHub Banner" width="100%" />
 
 # Hi.. I'm Asifuzzaman, a Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2025 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 
 
 # 💻 Tech Stack:
