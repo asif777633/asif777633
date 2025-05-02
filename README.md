@@ -1,25 +1,16 @@
 ## Hi there 👋
 
 
-**asif777633/asif777633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**asif777633/asif777633** 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img src="[https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/476149772_3490826077889376_6920923188909851805_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=oZrfO9skK6MQ7kNvwFynGf0&_nc_oc=Admh9nQCuQPVxJSyivQj5j4q4uCgUaP_8bMLzI7iSGPVIL_32wfULiv1tDcGNOE2ls0&_nc_zt=23&_nc_ht=scontent.fdac5-2.fna&_nc_gid=-3u_wMxJeAkkbiENw6B--Q&oh=00_AfHWMeWuxBQsep5lomvhe10ueD9lW2PiBuAszQhgB5_6Ag&oe=681AB281]" alt="GitHub Banner" width="100%" />
+<img src="[]" alt="GitHub Banner" width="100%" />
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Asifuzzaman and I'm a web development, from Bangladesh</p>
 
 ###
 
