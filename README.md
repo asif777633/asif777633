@@ -2,7 +2,7 @@
 **asif777633/asif777633** 
 
 
-<img src="[]" alt="GitHub Banner" width="100%" />
+<img src="[74.jpg]" alt="GitHub Banner" width="100%" />
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: Love to write code<br>🎲 Fun fact: ...</p>
 
 ###
 
@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
-<h2 align="left">Social media</h2>
+<h2 align="left">Connect with me!</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/asifuzzaman-fs-71aa43222/" target="_blank">
