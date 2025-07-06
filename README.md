@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Asifuzzaman and I'm a web development, from Bangladesh</p>
+<p align="left">My name is Asifuzzaman and I'm a web developer, from Bangladesh</p>
 
 ###
 
